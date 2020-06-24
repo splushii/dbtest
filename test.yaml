@@ -9,8 +9,9 @@ playlist:
     - name: Test
 
 entries:
-  - type: track
+  - id: '4XYeMeLIaIr1dYrSBjTxvA9pV4aqLn7RmWHUIOKFBrg3u9pHM7qMdg17JlyE36dx'
     entry:
+      type: track
       src: subsonic@subsonic.splushii.se
       id: '10247'
       meta:
