@@ -1,20 +1,28 @@
 ---
-
-schema_version: 1
-
-playlist:
-  type: static
-  id: test
-  meta:
-    - name: Test
-
 entries:
-  - id: '4XYeMeLIaIr1dYrSBjTxvA9pV4aqLn7RmWHUIOKFBrg3u9pHM7qMdg17JlyE36dx'
-    entry:
-      type: track
-      src: subsonic@subsonic.splushii.se
-      id: '10247'
-      meta:
-        - title: Down Under
-        - artist: Men At Work
-        - tracknumber: '1'
+- entry:
+    id: "10247"
+    meta:
+    - title: "Down Under"
+    - artist: "Men At Work"
+    - tracknumber: "1"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "4XYeMeLIaIr1dYrSBjTxvA9pV4aqLn7RmWHUIOKFBrg3u9pHM7qMdg17JlyE36dx"
+- entry:
+    id: "7986"
+    meta:
+    - artist: "Pet Shop Boys"
+    - year: "1991"
+    - album: "Discography"
+    - title: "Always On My Mind"
+    - tracknumber: "8"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "39cf62ed-54b7-4fcb-b1ea-4622b423e9d1"
+playlist:
+  id: "test"
+  meta:
+  - name: "Test"
+  type: "static"
+schema_version: 1
