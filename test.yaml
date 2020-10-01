@@ -42,6 +42,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "384e2ce2-4f27-49db-a4df-5696941ec682"
+- entry:
+    id: "6387"
+    meta:
+    - artist: "Jävlaranamma"
+    - year: "2011"
+    - album: "Merry Påskmas"
+    - title: "Björnen och ejdern"
+    - tracknumber: "9"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "9a3788f8-0c71-41a2-8bc1-5b72b3df7935"
 playlist:
   id: "test"
   meta:
