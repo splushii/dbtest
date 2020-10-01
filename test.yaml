@@ -31,6 +31,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "3aae5f9f-0831-42b0-9b55-0ac4d217b73f"
+- entry:
+    id: "8148"
+    meta:
+    - artist: "Nightwish"
+    - year: "2007"
+    - album: "Dark Passion Play"
+    - title: "Amaranth"
+    - tracknumber: "3"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "384e2ce2-4f27-49db-a4df-5696941ec682"
 playlist:
   id: "test"
   meta:
