@@ -219,6 +219,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "90c0058b-a896-41a2-8693-0b76af80c52e"
+- entry:
+    id: "12489"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Where is my Mind?"
+    - tracknumber: "14"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "4a34bd2d-d8b2-4956-958a-fbcb38b822b3"
 playlist:
   id: "test"
   meta:
