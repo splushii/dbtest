@@ -264,17 +264,6 @@ entries:
     type: "track"
   id: "e6aff904-bac2-4b81-ae62-12ac775085ae"
 - entry:
-    id: "357"
-    meta:
-    - artist: "Pakito"
-    - year: "2006"
-    - album: "Living on Video"
-    - title: "Moving on stereo"
-    - tracknumber: "12"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "0e7477f1-1764-4d99-a918-ce92938831a8"
-- entry:
     id: "13998"
     meta:
     - artist: "Pakito"
@@ -286,15 +275,6 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "d6173367-ed09-48ac-a27d-20f4afc01513"
-- entry:
-    id: "1174"
-    meta:
-    - artist: "Pakito"
-    - album: "Electronic"
-    - title: "You Wanna Rock"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "8e381866-1c66-4374-9da0-f09dcfd441af"
 playlist:
   id: "test"
   meta:
