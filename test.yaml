@@ -32,17 +32,6 @@ entries:
     type: "track"
   id: "3aae5f9f-0831-42b0-9b55-0ac4d217b73f"
 - entry:
-    id: "8148"
-    meta:
-    - artist: "Nightwish"
-    - year: "2007"
-    - album: "Dark Passion Play"
-    - title: "Amaranth"
-    - tracknumber: "3"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "384e2ce2-4f27-49db-a4df-5696941ec682"
-- entry:
     id: "6387"
     meta:
     - artist: "Jävlaranamma"
@@ -109,6 +98,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "91177288-790b-44db-82f5-0678b18dd5ba"
+- entry:
+    id: "8148"
+    meta:
+    - artist: "Nightwish"
+    - year: "2007"
+    - album: "Dark Passion Play"
+    - title: "Amaranth"
+    - tracknumber: "3"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "384e2ce2-4f27-49db-a4df-5696941ec682"
 - entry:
     id: "12477"
     meta:
