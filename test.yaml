@@ -142,6 +142,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "23f45b01-d12b-4023-adcf-d9fde5123c07"
+- entry:
+    id: "12487"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Monkey Gone to Heaven"
+    - tracknumber: "17"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "91177288-790b-44db-82f5-0678b18dd5ba"
 playlist:
   id: "test"
   meta:
