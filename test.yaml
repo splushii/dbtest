@@ -143,6 +143,40 @@ entries:
     type: "track"
   id: "cfed2f2f-33de-46cc-bd8a-1a058c28d4f1"
 - entry:
+    id: "6405"
+    meta:
+    - artist: "Nina Simone"
+    - year: "2003"
+    - album: "Anthology (Disc 2)"
+    - title: "Rich Girl"
+    - tracknumber: "15"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "693585d7-52d7-4750-b762-d5eb60e0fb7e"
+- entry:
+    id: "6411"
+    meta:
+    - artist: "Nina Simone"
+    - year: "2003"
+    - album: "Anthology (Disc 2)"
+    - title: "I Wish I Knew How It Felt To Be Free"
+    - tracknumber: "2"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "e3e9bd66-6791-4218-a0f7-1d352213006c"
+- entry:
+    id: "6407"
+    meta:
+    - artist: "Nina Simone"
+    - year: "2006"
+    - album: "Silk & Soul"
+    - title: "I Wish I Knew How It Would Feel To Be Free"
+    - discnumber: "1"
+    - tracknumber: "6"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "ceab9ad8-e35a-485b-a416-8f80d911105a"
+- entry:
     id: "12487"
     meta:
     - artist: "Pixies"
@@ -211,40 +245,6 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "0f65799a-05ac-40b5-b69f-e75f5389265f"
-- entry:
-    id: "6405"
-    meta:
-    - artist: "Nina Simone"
-    - year: "2003"
-    - album: "Anthology (Disc 2)"
-    - title: "Rich Girl"
-    - tracknumber: "15"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "693585d7-52d7-4750-b762-d5eb60e0fb7e"
-- entry:
-    id: "6411"
-    meta:
-    - artist: "Nina Simone"
-    - year: "2003"
-    - album: "Anthology (Disc 2)"
-    - title: "I Wish I Knew How It Felt To Be Free"
-    - tracknumber: "2"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "e3e9bd66-6791-4218-a0f7-1d352213006c"
-- entry:
-    id: "6407"
-    meta:
-    - artist: "Nina Simone"
-    - year: "2006"
-    - album: "Silk & Soul"
-    - title: "I Wish I Knew How It Would Feel To Be Free"
-    - discnumber: "1"
-    - tracknumber: "6"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "ceab9ad8-e35a-485b-a416-8f80d911105a"
 - entry:
     id: "6410"
     meta:
