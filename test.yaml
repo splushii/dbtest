@@ -153,6 +153,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "91177288-790b-44db-82f5-0678b18dd5ba"
+- entry:
+    id: "12480"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Velouria"
+    - tracknumber: "15"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "1e047f3c-7a62-4883-bec0-004a117bbc75"
 playlist:
   id: "test"
   meta:
