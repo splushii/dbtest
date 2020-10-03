@@ -212,6 +212,17 @@ entries:
     type: "track"
   id: "0f65799a-05ac-40b5-b69f-e75f5389265f"
 - entry:
+    id: "6405"
+    meta:
+    - artist: "Nina Simone"
+    - year: "2003"
+    - album: "Anthology (Disc 2)"
+    - title: "Rich Girl"
+    - tracknumber: "15"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "693585d7-52d7-4750-b762-d5eb60e0fb7e"
+- entry:
     id: "6411"
     meta:
     - artist: "Nina Simone"
@@ -245,17 +256,6 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "6546d62c-7d02-4ffd-b073-3eb7641b00fc"
-- entry:
-    id: "6405"
-    meta:
-    - artist: "Nina Simone"
-    - year: "2003"
-    - album: "Anthology (Disc 2)"
-    - title: "Rich Girl"
-    - tracknumber: "15"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "693585d7-52d7-4750-b762-d5eb60e0fb7e"
 - entry:
     id: "6409"
     meta:
