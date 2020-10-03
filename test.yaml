@@ -241,6 +241,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "92d06fb6-77f5-4080-b4df-25815221aada"
+- entry:
+    id: "12485"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Nimrod's Son"
+    - tracknumber: "10"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "c9762fdd-a892-4677-8502-d460bccb091d"
 playlist:
   id: "test"
   meta:
