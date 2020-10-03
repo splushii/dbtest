@@ -66,28 +66,6 @@ entries:
     type: "track"
   id: "313878ec-4584-4ad2-b8f5-f9f5097cd1cf"
 - entry:
-    id: "12479"
-    meta:
-    - artist: "Pixies"
-    - year: "1997"
-    - album: "Death to the Pixies"
-    - title: "Dig for Fire"
-    - tracknumber: "7"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "0012533e-e1a8-42d3-acd9-521008d0ab20"
-- entry:
-    id: "12474"
-    meta:
-    - artist: "Pixies"
-    - year: "1997"
-    - album: "Death to the Pixies"
-    - title: "Gouge Away"
-    - tracknumber: "16"
-    src: "subsonic@subsonic.splushii.se"
-    type: "track"
-  id: "f32bcbe1-0aec-4095-b111-b3ca3b6e20eb"
-- entry:
     id: "12481"
     meta:
     - artist: "Pixies"
