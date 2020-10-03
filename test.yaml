@@ -175,6 +175,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "fea823b4-c847-4e30-abd0-3573d6e26515"
+- entry:
+    id: "12477"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Here Comes Your Man"
+    - tracknumber: "4"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "aeddd53d-cd52-460d-8a61-5fabdb666228"
 playlist:
   id: "test"
   meta:
