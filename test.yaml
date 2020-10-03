@@ -109,6 +109,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "bf11bc19-edd0-4cee-8831-92a898bee848"
+- entry:
+    id: "12482"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "U-Mass"
+    - tracknumber: "11"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "7ce6bb49-49b4-4217-b39e-ca6eb64c382c"
 playlist:
   id: "test"
   meta:
