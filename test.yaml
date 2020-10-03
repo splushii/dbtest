@@ -252,6 +252,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "c9762fdd-a892-4677-8502-d460bccb091d"
+- entry:
+    id: "12483"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Bone Machine"
+    - tracknumber: "12"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "e994c2c8-e549-43d3-9545-c9d3be4b7ddb"
 playlist:
   id: "test"
   meta:
