@@ -53,6 +53,18 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "9a3788f8-0c71-41a2-8bc1-5b72b3df7935"
+- entry:
+    id: "15763"
+    meta:
+    - artist: "Phil Collins"
+    - year: "1989"
+    - album: "...But Seriously"
+    - title: "Another Day In Paradise"
+    - discnumber: "3"
+    - tracknumber: "7"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "313878ec-4584-4ad2-b8f5-f9f5097cd1cf"
 playlist:
   id: "test"
   meta:
