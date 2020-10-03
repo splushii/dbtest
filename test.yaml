@@ -197,6 +197,17 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "c39ee8dd-8c7b-4bc1-a3a0-2eeceda0b388"
+- entry:
+    id: "12488"
+    meta:
+    - artist: "Pixies"
+    - year: "1997"
+    - album: "Death to the Pixies"
+    - title: "Tame"
+    - tracknumber: "3"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "76960f28-889f-468f-bcbe-dd762140c055"
 playlist:
   id: "test"
   meta:
