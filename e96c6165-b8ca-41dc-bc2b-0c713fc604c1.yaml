@@ -1,0 +1,20 @@
+---
+entries:
+- entry:
+    id: "14035"
+    meta:
+    - artist: "'n-Sync"
+    - year: "2000"
+    - album: "Q-Music Top 500 Van De 00s Editie 2014 (2014) CD3"
+    - title: "Bye Bye Bye"
+    - discnumber: "1"
+    - tracknumber: "3"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "d366ab91-619e-4f09-a66c-728309e63788"
+playlist:
+  id: "e96c6165-b8ca-41dc-bc2b-0c713fc604c1"
+  meta:
+  - title: "yeahboi"
+  type: "static"
+schema_version: 1
