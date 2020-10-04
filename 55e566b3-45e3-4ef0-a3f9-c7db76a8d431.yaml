@@ -1,0 +1,10 @@
+---
+playlist:
+  id: "55e566b3-45e3-4ef0-a3f9-c7db76a8d431"
+  meta:
+  - title: "cave"
+  type: "smart"
+query: "{\"type\":\"tree\",\"not\":false,\"op\":\"AND\",\"children\":[{\"type\":\"\
+  leaf\",\"not\":false,\"key\":\"artist\",\"op\":\"EQUALS\",\"value\":\"Nick Cave\
+  \ and the Bad Seeds\"}]}"
+schema_version: 1
