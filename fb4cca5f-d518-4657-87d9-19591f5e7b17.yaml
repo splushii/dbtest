@@ -1,0 +1,10 @@
+---
+playlist:
+  id: "fb4cca5f-d518-4657-87d9-19591f5e7b17"
+  meta:
+  - title: "otis"
+  type: "smart"
+query: "{\"type\":\"tree\",\"not\":false,\"op\":\"AND\",\"children\":[{\"type\":\"\
+  leaf\",\"not\":false,\"key\":\"artist\",\"op\":\"EQUALS\",\"value\":\"Otis Redding\"\
+  }]}"
+schema_version: 1
