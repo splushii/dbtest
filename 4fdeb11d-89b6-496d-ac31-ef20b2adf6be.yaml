@@ -1,5 +1,32 @@
 ---
-entries: []
+entries:
+- entry:
+    id: "9530"
+    meta:
+    - artist: "Monty Python"
+    - album: "Monty Python"
+    - title: "Brave Sir Robin"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "cc93a729-ac25-44cd-90da-a6bc31ab0c08"
+- entry:
+    id: "9532"
+    meta:
+    - artist: "Monty Python"
+    - album: "Life of Brian"
+    - title: "Always Look on the Bright Side"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "c0e2347d-1f92-460c-9f8e-774070e31727"
+- entry:
+    id: "9534"
+    meta:
+    - artist: "Monty Python"
+    - album: "Monty Python"
+    - title: "Lumberjack Song"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "f0cf2f37-3cc6-41a0-bdd2-c6a53b0acafc"
 playlist:
   id: "4fdeb11d-89b6-496d-ac31-ef20b2adf6be"
   meta:
