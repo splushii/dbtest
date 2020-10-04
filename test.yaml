@@ -290,6 +290,18 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "7bf88bf6-bbfb-4cf4-8217-be2421c17fac"
+- entry:
+    id: "9680"
+    meta:
+    - artist: "Los Lobos"
+    - year: "2006"
+    - album: "Hits For Kids - Pop Party Vol2 - Disk 1"
+    - title: "La Bamba"
+    - discnumber: "1"
+    - tracknumber: "4"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "da14e7ae-fbca-4b30-a536-ab3d7cfbfe85"
 playlist:
   id: "test"
   meta:
