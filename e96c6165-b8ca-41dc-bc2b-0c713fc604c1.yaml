@@ -12,6 +12,62 @@ entries:
     src: "subsonic@subsonic.splushii.se"
     type: "track"
   id: "d366ab91-619e-4f09-a66c-728309e63788"
+- entry:
+    id: "1159"
+    meta:
+    - artist: "M.I.A."
+    - year: "2008"
+    - album: "Paper Planes (Retail_CDS)"
+    - title: "Paper Planes"
+    - tracknumber: "1"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "bc23117f-a2f0-4f22-b99c-780f392ad692"
+- entry:
+    id: "402"
+    meta:
+    - artist: "M.I.A."
+    - year: "2008"
+    - album: "Paper Planes (Retail_CDS)"
+    - title: "Paper Planes (Diplo Street Mix Feat. Bum B And Rich Boy)"
+    - tracknumber: "2"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "4e46f53e-7d2b-45be-ad97-3f33fb0cf307"
+- entry:
+    id: "13941"
+    meta:
+    - artist: "Lynyrd Skynyrd"
+    - year: "1973"
+    - album: "Rolling Stone Magazine's 100 Greatest Guitar Songs Of All Time"
+    - title: "Free Bird"
+    - tracknumber: "64"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "06daab03-125b-4ad4-b3a4-f8c2dcb793ce"
+- entry:
+    id: "14126"
+    meta:
+    - artist: "Lynyrd Skynyrd"
+    - year: "1973"
+    - album: "Rolling Stone Magazine's 500 Greatest Songs Of All Time"
+    - title: "Free Bird"
+    - tracknumber: "191"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "d0ba8405-cecd-4d22-8e86-0ea8ab7ca30e"
+- entry:
+    id: "10150"
+    meta:
+    - artist: "Lynyrd Skynyrd"
+    - year: "2007"
+    - album: "Old Skool of Rock, Disc 1"
+    - title: "Sweet Home Alabama"
+    - discnumber: "1"
+    - tracknumber: "17"
+    src: "subsonic@subsonic.splushii.se"
+    type: "track"
+  id: "d8c4e93f-a3d7-4807-831a-74506bbe61e4"
 playlist:
   id: "e96c6165-b8ca-41dc-bc2b-0c713fc604c1"
   meta:
